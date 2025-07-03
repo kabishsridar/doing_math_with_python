@@ -1,0 +1,4 @@
+Steps to check whether it is a polynomial
+1. get the expression
+2. check for the operations, may be +, -, *
+3. the first variable should be with squared value, the next variable should contain an integer and variable, the next should be only integer
